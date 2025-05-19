@@ -1,0 +1,5 @@
+风速预测模型评估报告
+测试集RMSE: 3.83 m/s
+
+模型参数:
+ARIMA: order=(1, 1, 1), seasonal_order=(1, 1, 1, 12)

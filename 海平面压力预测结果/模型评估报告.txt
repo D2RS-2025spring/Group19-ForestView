@@ -1,0 +1,5 @@
+海平面压力预测模型评估报告
+测试集RMSE: 2.31 hPa
+
+模型参数:
+ARIMA: order=(1, 1, 1), seasonal_order=(1, 1, 1, 12)

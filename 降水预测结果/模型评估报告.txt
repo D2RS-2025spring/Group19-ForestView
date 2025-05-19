@@ -1,0 +1,5 @@
+降水量预测模型评估报告
+测试集RMSE: 1.99 mm
+
+模型参数:
+ARIMA: order=(1, 1, 1), seasonal_order=(1, 1, 1, 12)
