@@ -1,0 +1,15 @@
+project:
+  type: website
+  output-dir: _site
+format:
+  html:
+    theme: cosmo
+    toc: true
+    self-contained: false
+
+website:
+  title: "Group19-ForestView"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
